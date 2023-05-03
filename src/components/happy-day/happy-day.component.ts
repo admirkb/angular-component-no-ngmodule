@@ -11,6 +11,7 @@ export class HappyDayComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log("here")
   }
 
 }
